@@ -1,0 +1,10 @@
+def  calculer_la_puissance(a, n):
+    if n == 0:
+        return 1:
+    else:
+        return a * calculer_la_puissance(a, n-1)
+
+base = 2
+exposant = 5
+resultat = calculer_la_puissance(base, exposant)
+print(f"{base} 0")
