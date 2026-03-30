@@ -1,0 +1,21 @@
+dictionnaire = {}
+
+while True:
+    print("\n1. Ajouter un mot\n2. Chercher une signification\n3. Afficher tous les mots\n4. Quitter")
+    choix = input("Votre choix: ")
+
+    if choix == "1":
+        mot = input("Mot: ")
+        signification = input("Signification: ")
+        dictionnaire[mot] = signification
+        print("Mot ajouté!")
+    elif choix == "2":
+        mot = input("Entrez le mot à chercher: ")
+        print(dictionnaire.get(mot, "Mot non trouvé"))
+    elif choix == "3":
+        for m, s in dictionnaire.items():
+            print(f"{m}: {s}")
+    elif choix == "4":
+        break
+    else:
+        print("Choix invalide!")
