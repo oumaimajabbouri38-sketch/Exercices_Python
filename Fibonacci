@@ -1,0 +1,20 @@
+def fib_iterative(n):
+    if n == 0:
+        return 0
+    elif n == 1:
+        return 1
+    
+    prev1 = 0
+    prev2 = 1
+    
+    for i in range(2, n + 1):
+        fib_current = prev1 + prev2
+        prev1 = prev2
+        prev2 = fib_current
+    
+    return fib_current
+
+
+indice = 6
+terme = fib_iterative(indice)
+print("le terme a l'indice", indice, "est", terme)
