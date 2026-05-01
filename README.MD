@@ -1,45 +1,77 @@
-# 👋 Hi, I'm Oumaima
+# 👋 Hi, I'm Oumaima Jabbouri
 
 🎓 Computer Science student  
 💻 Passionate about Python & Problem Solving  
-🐍 I build beginner Python projects to improve my skills  
+🐍 I build beginner-friendly projects to improve my skills  
 
 ---
 
-## 🧠 My Python Projects
+## 🧠 About This Repository
 
-### 🔢 Math & Logic Projects:
+This repository contains my beginner Python projects where I practice:
+
+- Problem solving  
+- Algorithms  
+- Basic data structures  
+- Python fundamentals  
+
+---
+
+## 🐍 Python Projects
+
+### 🔢 Math & Logic
 - Fibonacci Sequence Generator  
 - Factorial (Iterative)  
 - Factorial (Recursive)  
 - Power Calculator  
 
-### 🧩 String & Logic:
+### 🧩 Strings & Logic
 - Palindrome Checker  
 
-### 📊 Data Structures:
+### 📊 Data Structures
 - Simple Dictionary Project  
-- Memo / Recursive practice  
+- Recursive Practice  
 
-### 🧮 Tools:
-- Calculator in Python  
-
----
-
-## 📂 Other Files:
-- PythonBeginnerProjects.code-workspace  
-- PythonBeginnerProjects11.code-workspace  
+### 🧮 Tools
+- Basic Calculator in Python  
 
 ---
 
-## 🚀 Goals:
-- Improve problem solving  
+## 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+
+---
+
+## 🚀 Goals
+
+- Improve problem-solving skills  
 - Learn Web Development  
 - Build real-world projects  
+- Master Git & GitHub  
 
 ---
 
-## 📫 Contact:
-- LinkedIn: https://www.linkedin.com/in/oumaima-jabbouri-97781131b 
-- GitHub:  https://github.com/oumaimajabbouri38-sketch
-- Email: oumaimajabbourii@gmail.com
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=oumaimajabbouri38-sketch&show_icons=true&theme=tokyonight)
+
+---
+
+## 🔥 Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oumaimajabbouri38-sketch&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Contact
+
+- LinkedIn: https://www.linkedin.com/in/oumaima-jabbouri-97781131b  
+- GitHub: https://github.com/oumaimajabbouri38-sketch  
+- Email: oumaimajabbourii@gmail.com  
+
+---
+
+⭐ Thanks for visiting!
