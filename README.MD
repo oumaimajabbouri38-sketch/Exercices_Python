@@ -54,18 +54,6 @@ This repository contains my beginner Python projects where I practice:
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=oumaimajabbouri38-sketch&show_icons=true&theme=tokyonight)
-
----
-
-## 🔥 Top Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oumaimajabbouri38-sketch&layout=compact&theme=tokyonight)
-
----
-
 ## 📫 Contact
 
 - LinkedIn: https://www.linkedin.com/in/oumaima-jabbouri-97781131b  
